@@ -2,7 +2,7 @@ const Hero2 = () => {
   return (
     <section className="container-fluid py-5 bg-light">
       <div className="row align-items-center">
-        <div className="col-md-6 text-end">
+        <div className="col-md-6 text-lg-end text-center">
           <img
             src="public/assets/bgman.png"
             alt="Profile"
